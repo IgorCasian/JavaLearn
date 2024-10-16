@@ -4,7 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="da4b4373-b8a5-40ca-881f-8d01f58c6a25" name="Changes" comment="Lectia 8&#10;&#10;Signed-off-by: IgorCasian &lt;igorcasian@gmail.com&gt;" />
+    <list default="true" id="da4b4373-b8a5-40ca-881f-8d01f58c6a25" name="Changes" comment="JavaLearn&#10;&#10;Signed-off-by: IgorCasian &lt;igorcasian@gmail.com&gt;">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lectia9/Task1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lectia9/Task1/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lectia9/Task1/Staff.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lectia9/Task1/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lectia9/Task2/MyClas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lectia9/Task2/Parallelogram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lectia9/Task3/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lectia9/Task3/Cube.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lectia9/Task3/RunTask3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lectia9/Task3/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lectia9/Task3/Sphere.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lectia9/Task3/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lectia9/Task3/ThreeDimensionalShape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lectia9/Task3/TwoDimensionalShape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectia3/src/Main.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,6 +43,11 @@
         <option value="I.Casian" />
       </list>
     </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_COMMON_BRANCH" value="Lectia-8" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="SYNC" />
@@ -42,6 +65,9 @@
     &quot;accountId&quot;: &quot;842a73fb-4bee-490f-b0fe-7c274a1a6698&quot;
   }
 }</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/Lectia9/Task1/Staff.java" root0="SKIP_HIGHLIGHTING" />
+  </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -56,37 +82,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Circle.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lectia7.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lectia8.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.cl_main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;Main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/JavaFundamentals/JavaLearn/JavaLearn/src/Lectia6/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.log&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Circle.executor": "Run",
+    "Application.Lectia7.Main.executor": "Run",
+    "Application.Lectia8.Main.executor": "Run",
+    "Application.Lectia9.Main.executor": "Run",
+    "Application.Lectia9.Task1.Main.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.RunTask3.executor": "Run",
+    "Application.cl_main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "JavaLearn",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/JavaLearn/src/Lectia9",
+    "onboarding.tips.debug.path": "C:/JavaFundamentals/JavaLearn/JavaLearn/src/Lectia6/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "vcs.log"
   }
-}</component>
-  <component name="RunManager" selected="Application.Lectia8.Main">
-    <configuration name="Circle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lectia5_2.Circle" />
-      <module name="JavaLearn" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lectia5_2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+}]]></component>
+  <component name="RunManager" selected="Application.RunTask3">
     <configuration name="Lectia7.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lectia7.Main" />
       <module name="JavaLearn" />
@@ -113,6 +131,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lectia9.Task1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lectia9.Task1.Main" />
+      <module name="JavaLearn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lectia9.Task1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lectia6.Main" />
       <module name="JavaLearn" />
@@ -126,12 +157,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="cl_main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lectia5_2.cl_main" />
+    <configuration name="RunTask3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lectia9.Task3.RunTask3" />
       <module name="JavaLearn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lectia5_2.*" />
+          <option name="PATTERN" value="Lectia9.Task3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,11 +172,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RunTask3" />
+        <item itemvalue="Application.Lectia9.Task1.Main" />
         <item itemvalue="Application.Lectia8.Main" />
         <item itemvalue="Application.Lectia7.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.cl_main" />
-        <item itemvalue="Application.Circle" />
       </list>
     </recent_temporary>
   </component>
@@ -198,7 +229,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728585294915</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="JavaLearn&#10;&#10;Signed-off-by: IgorCasian &lt;igorcasian@gmail.com&gt;">
+      <option name="closed" value="true" />
+      <created>1728586771703</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1728586771703</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -207,6 +246,11 @@
         <entry key="Branch">
           <value>
             <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="HEAD" />
+                </option>
+              </RecentGroup>
               <RecentGroup>
                 <option name="FILTER_VALUES">
                   <option value="origin/master" />
@@ -237,7 +281,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="origin/master" />
+                        <option value="HEAD" />
                       </list>
                     </value>
                   </entry>
@@ -256,6 +300,7 @@
     <MESSAGE value="Lectia 8" />
     <MESSAGE value="&#10;&#10;Signed-off-by: IgorCasian &lt;igorcasian@gmail.com&gt;" />
     <MESSAGE value="Lectia 8&#10;&#10;Signed-off-by: IgorCasian &lt;igorcasian@gmail.com&gt;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lectia 8&#10;&#10;Signed-off-by: IgorCasian &lt;igorcasian@gmail.com&gt;" />
+    <MESSAGE value="JavaLearn&#10;&#10;Signed-off-by: IgorCasian &lt;igorcasian@gmail.com&gt;" />
+    <option name="LAST_COMMIT_MESSAGE" value="JavaLearn&#10;&#10;Signed-off-by: IgorCasian &lt;igorcasian@gmail.com&gt;" />
   </component>
 </project>
