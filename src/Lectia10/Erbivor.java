@@ -1,6 +1,6 @@
 package Lectia10;
 
-public abstract class Erbivor extends Elefant  implements  Animal{
+public abstract class Erbivor extends Elefant  {
     public void iarba(){
         System.out.println("Maninaca numai iarba");
     }
