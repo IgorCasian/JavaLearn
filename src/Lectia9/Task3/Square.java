@@ -6,6 +6,7 @@ public class Square extends TwoDimensionalShape {
     public Square(double side) {
         this.side = side;
     }
+    @Override
     public double aria(){
         return side*side;
     }

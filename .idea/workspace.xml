@@ -5,23 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="da4b4373-b8a5-40ca-881f-8d01f58c6a25" name="Changes" comment="JavaLearn&#10;&#10;Signed-off-by: IgorCasian &lt;igorcasian@gmail.com&gt;">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lectia9/Task1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lectia9/Task1/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lectia9/Task1/Staff.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lectia9/Task1/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lectia9/Task2/MyClas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lectia9/Task2/Parallelogram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lectia9/Task3/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lectia9/Task3/Cube.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lectia9/Task3/RunTask3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lectia9/Task3/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lectia9/Task3/Sphere.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lectia9/Task3/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lectia9/Task3/ThreeDimensionalShape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lectia9/Task3/TwoDimensionalShape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lectia10/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lectia10/Elefant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lectia10/Erbivor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lectia10/RunLectia10.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lectia3/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectia9/Task3/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lectia9/Task3/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectia9/Task3/Cube.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lectia9/Task3/Cube.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectia9/Task3/Sphere.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lectia9/Task3/Sphere.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectia9/Task3/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lectia9/Task3/Square.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,6 +82,7 @@
     "Application.Lectia9.Main.executor": "Run",
     "Application.Lectia9.Task1.Main.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.RunLectia10.executor": "Run",
     "Application.RunTask3.executor": "Run",
     "Application.cl_main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -104,7 +97,7 @@
     "settings.editor.selected.configurable": "vcs.log"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.RunTask3">
+  <component name="RunManager" selected="Application.RunLectia10">
     <configuration name="Lectia7.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lectia7.Main" />
       <module name="JavaLearn" />
@@ -144,12 +137,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lectia6.Main" />
+    <configuration name="RunLectia10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lectia10.RunLectia10" />
       <module name="JavaLearn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lectia6.*" />
+          <option name="PATTERN" value="Lectia10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -172,11 +165,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RunLectia10" />
         <item itemvalue="Application.RunTask3" />
         <item itemvalue="Application.Lectia9.Task1.Main" />
         <item itemvalue="Application.Lectia8.Main" />
         <item itemvalue="Application.Lectia7.Main" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -237,7 +230,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728586771703</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="JavaLearn&#10;&#10;Signed-off-by: IgorCasian &lt;igorcasian@gmail.com&gt;">
+      <option name="closed" value="true" />
+      <created>1729077166059</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1729077166059</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
