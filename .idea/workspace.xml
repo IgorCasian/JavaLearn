@@ -5,15 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="da4b4373-b8a5-40ca-881f-8d01f58c6a25" name="Changes" comment="JavaLearn&#10;&#10;Signed-off-by: IgorCasian &lt;igorcasian@gmail.com&gt;">
-      <change afterPath="$PROJECT_DIR$/src/Lectia10/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lectia10/Elefant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lectia10/Erbivor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lectia10/RunLectia10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lectia9/Task3/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lectia9/Task3/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lectia9/Task3/Cube.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lectia9/Task3/Cube.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lectia9/Task3/Sphere.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lectia9/Task3/Sphere.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lectia9/Task3/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lectia9/Task3/Square.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lectia10/Erbivor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lectia10/Erbivor.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -238,7 +230,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729077166059</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="JavaLearn&#10;&#10;Signed-off-by: IgorCasian &lt;igorcasian@gmail.com&gt;">
+      <option name="closed" value="true" />
+      <created>1729251817090</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1729251817090</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
