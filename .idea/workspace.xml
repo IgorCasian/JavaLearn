@@ -4,8 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="da4b4373-b8a5-40ca-881f-8d01f58c6a25" name="Changes" comment="JavaLearn&#10;&#10;Signed-off-by: IgorCasian &lt;igorcasian@gmail.com&gt;">
-      <change beforePath="$PROJECT_DIR$/src/Lectia10/Erbivor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lectia10/Erbivor.java" afterDir="false" />
+    <list default="true" id="da4b4373-b8a5-40ca-881f-8d01f58c6a25" name="Changes" comment="Modificat Clasa Erbivor&#10;&#10;Signed-off-by: IgorCasian &lt;igorcasian@gmail.com&gt;">
+      <change afterPath="$PROJECT_DIR$/src/Lectia11/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lectia11/Polygon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lectia11/RunLectia11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lectia11/Square.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]1/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Changes_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,6 +83,7 @@
     "Application.Lectia9.Task1.Main.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.RunLectia10.executor": "Run",
+    "Application.RunLectia11.executor": "Run",
     "Application.RunTask3.executor": "Run",
     "Application.cl_main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -89,20 +98,7 @@
     "settings.editor.selected.configurable": "vcs.log"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.RunLectia10">
-    <configuration name="Lectia7.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lectia7.Main" />
-      <module name="JavaLearn" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lectia7.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.RunLectia11">
     <configuration name="Lectia8.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lectia8.Main" />
       <module name="JavaLearn" />
@@ -142,6 +138,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RunLectia11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lectia11.RunLectia11" />
+      <module name="JavaLearn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lectia11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="RunTask3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lectia9.Task3.RunTask3" />
       <module name="JavaLearn" />
@@ -157,11 +166,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RunLectia11" />
         <item itemvalue="Application.RunLectia10" />
         <item itemvalue="Application.RunTask3" />
         <item itemvalue="Application.Lectia9.Task1.Main" />
         <item itemvalue="Application.Lectia8.Main" />
-        <item itemvalue="Application.Lectia7.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -238,7 +247,23 @@
       <option name="project" value="LOCAL" />
       <updated>1729251817090</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="JavaLearn&#10;&#10;Signed-off-by: IgorCasian &lt;igorcasian@gmail.com&gt;">
+      <option name="closed" value="true" />
+      <created>1729252636608</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1729252636608</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Modificat Clasa Erbivor&#10;&#10;Signed-off-by: IgorCasian &lt;igorcasian@gmail.com&gt;">
+      <option name="closed" value="true" />
+      <created>1729269545466</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1729269545466</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -302,6 +327,7 @@
     <MESSAGE value="&#10;&#10;Signed-off-by: IgorCasian &lt;igorcasian@gmail.com&gt;" />
     <MESSAGE value="Lectia 8&#10;&#10;Signed-off-by: IgorCasian &lt;igorcasian@gmail.com&gt;" />
     <MESSAGE value="JavaLearn&#10;&#10;Signed-off-by: IgorCasian &lt;igorcasian@gmail.com&gt;" />
-    <option name="LAST_COMMIT_MESSAGE" value="JavaLearn&#10;&#10;Signed-off-by: IgorCasian &lt;igorcasian@gmail.com&gt;" />
+    <MESSAGE value="Modificat Clasa Erbivor&#10;&#10;Signed-off-by: IgorCasian &lt;igorcasian@gmail.com&gt;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Modificat Clasa Erbivor&#10;&#10;Signed-off-by: IgorCasian &lt;igorcasian@gmail.com&gt;" />
   </component>
 </project>
